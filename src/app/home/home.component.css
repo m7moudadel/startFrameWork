@@ -1,0 +1,35 @@
+.main-color{
+  background-color: #1abc9c;
+  color: #fff;
+  padding: 45px;
+}
+h2{
+  font-weight: bolder!important;
+text-transform: uppercase !important;
+font-size: 30px !important;
+}
+
+img{
+  margin-top: 7rem;
+}
+ .span1{
+  display: inline-block;
+  width: 80px;
+  height: 4px;
+  background-color: #fff;
+}
+.star p{
+  margin-top: 15px;
+  font-size: 17px;
+}
+
+.btn-primary{
+background: transparent;
+  border: none;
+}
+.modal.show .modal-dialog {
+position: relative;
+top: 25%;
+}
+
+

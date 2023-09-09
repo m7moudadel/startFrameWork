@@ -1,0 +1,24 @@
+.main-color{
+  background-color: #1abc9c;
+  color: #fff;
+  padding-block: 10rem;
+}
+
+h2{
+  text-transform: uppercase!important;
+  font-weight: bolder!important;
+  font-size: calc(1.375rem + 1.5vw)!important;
+  margin-bottom: 1rem!important;
+}
+.span1{
+  display: inline-block;
+  width: 80px;
+  height: 4px;
+  background-color:  #fff;
+}
+
+.text p{
+  padding-inline: 2.4rem;
+  text-align: left;
+font-size: 1.2rem;
+}

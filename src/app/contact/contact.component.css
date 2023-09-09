@@ -1,0 +1,45 @@
+h2{
+  font-weight: bolder!important;
+  text-transform: uppercase!important;
+  color: rgb(44, 62, 80);
+  font-size: calc(1.375rem + 1.5vw)!important;
+  margin-top: 7rem;
+}
+
+.span1{
+  display: inline-block;
+  width: 80px;
+  height: 4px;
+  background-color:  rgb(44, 62, 80);
+}
+
+.inputs{
+  width: 70%;
+}
+
+.inputs input{
+  padding: 10px;
+  border: none;
+  font-size: 18px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.625);
+}
+
+.form-control:focus {
+  color: none;
+  background-color:none;
+  border-color:none;
+  outline: 0;
+   box-shadow: none;
+}
+
+.inputs label{
+  color: #1abc9c;
+}
+ button{
+  background-color: #1abc9c;
+  border-radius:5px ;
+  padding: 10px;
+  color: #fff;
+  border: none;
+  margin-top: 15px;
+ }
